@@ -1,4 +1,4 @@
-# Python-
+# Python-数据分析
 本合集为数据分析集合，主要涉及python的pandas，numpy及matplotlib三个库的操作，留存记录。
 
 ## 2019-5-17
